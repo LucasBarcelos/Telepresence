@@ -11,7 +11,7 @@
   "author": "Ritesh Kumar",
   "license": "MIT",
   "dependencies": {
-    "node": "0.12.7",
+    "node": "4.1.1",
     "npm": "2.11.3",
     "node-gyp": "3.4.0",
     "node-pre-gyp": "0.6.30",
