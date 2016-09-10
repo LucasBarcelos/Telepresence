@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "preinstall": "npm install",
     "test": "echo \"Error: no test specified\" && exit 1",
-     "web": "node index.js"
+    "web": "node index.js"
   },
   "author": "Ritesh Kumar",
   "license": "MIT",
